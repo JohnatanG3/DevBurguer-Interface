@@ -3,9 +3,7 @@
 
 Frontend da aplicação **DevBurguer**, com área pública para clientes e painel administrativo para gerenciamento interno.
 
-> Backend da aplicação: [DevBurguer API](https://github.com/JohnatanG3/DevBurguer-API
-
-)
+> Backend da aplicação: [DevBurguer API](https://github.com/JohnatanG3/DevBurguer-API)
 
 ---
 
@@ -47,18 +45,22 @@ Frontend da aplicação **DevBurguer**, com área pública para clientes e paine
 
 ### 🎥 Área do usuário
 
-**Vídeo de demonstração:**  
-[Assistir vídeo](SEU_LINK_VIDEO_USUARIO)
+**Vídeo de demonstração:** 
+[Assistir vídeo](https://github.com/user-attachments/assets/225d8341-9ed2-4c28-9da0-3908bf95cf1d)
 
 ---
 
 ### 🎥 Área administrativa
 
-**Vídeo de demonstração:**  
-[Assistir vídeo](SEU_LINK_VIDEO_ADMIN)
+**Vídeo de demonstração:**
+[Assistir vídeo](https://github.com/user-attachments/assets/71c16d15-3b17-4e48-8166-14ff95376ad7)
 
-🎥 Demonstração da adaptação da interface para telas menores, mantendo usabilidade.
-[Assistir vídeo](SEU_LINK_VIDEO_ADMIN)
+---
+
+### 🎥 Demonstração da adaptação da interface para telas menores, mantendo usabilidade.
+
+**Vídeo de demonstração:**
+[Assistir vídeo](https://github.com/user-attachments/assets/782770e2-c629-4612-a292-79e38497ff0a)
 
 ---
 
