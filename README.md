@@ -3,7 +3,9 @@
 
 Frontend da aplicação **DevBurguer**, com área pública para clientes e painel administrativo para gerenciamento interno.
 
-> Backend da aplicação: [DevBurguer API](SEU_LINK_REPOSITORIO_BACK)
+> Backend da aplicação: [DevBurguer API](https://github.com/JohnatanG3/DevBurguer-API
+
+)
 
 ---
 
